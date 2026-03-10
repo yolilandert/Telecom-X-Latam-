@@ -1,6 +1,4 @@
 # Telecom-X-Latam-
-Entendido. He ajustado el tono a uno más formal y eliminado los elementos visuales informales. Aquí tienes una propuesta de README.md diseñada específicamente para documentar el proceso técnico de tu proyecto:
-
 Pipeline ETL: Análisis de Datos en el Sector de Telecomunicaciones
 Este repositorio contiene el desarrollo de un proceso de Extracción, Transformación y Carga (ETL) aplicado a un conjunto de datos del sector de telecomunicaciones. El objetivo primordial es procesar información compleja y anidada sobre clientes para facilitar el análisis de indicadores clave de rendimiento, con especial énfasis en la tasa de cancelación (Churn Rate).
 
